@@ -1,6 +1,6 @@
 - I’m @PeanutSpread
-- I’m interested in games and applications surrounding a mobile platform
-- I’m currently learning how to make mobile applications at Sheridan
+- I’m interested in games and applications, regardless of platform
+- I’m currently working on personal projects (most likely game related)
 - I’m looking to collaborate on anything
 - How to reach me: lukevanrooyen@hotmail.com
 
