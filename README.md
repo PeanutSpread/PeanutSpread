@@ -1,6 +1,7 @@
 - I’m @PeanutSpread
 - I’m interested in games and applications, regardless of platform
-- I’m currently working on personal projects (most likely game related)
+- I’m currently working on a 2D platformer (with https://github.com/P0lybius) and a community map for Intruder(fps).
+- On the backburner I've got a VR game in the works.
 - I’m looking to collaborate on anything
 - How to reach me: lukevanrooyen@hotmail.com
 
